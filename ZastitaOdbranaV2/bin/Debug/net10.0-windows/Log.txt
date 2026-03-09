@@ -1,0 +1,65 @@
+HASH NEODGOVARA za APS_1._UVOD-2016.pdf    2/12/2026 10:42:49 PM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\APS_1._UVOD-2016.pdf    2/12/2026 10:42:54 PM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\APS_1._UVOD-2016.pdf    2/12/2026 10:43:06 PM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Spisak za nadoknadu_encrypted.enc    2/12/2026 10:43:18 PM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\Spisak za nadoknadu_encrypted.enc    2/12/2026 10:43:39 PM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\Spisak za nadoknadu.pdf    2/12/2026 10:43:45 PM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\Spisak za nadoknadu.pdf    2/12/2026 10:44:14 PM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\Spisak za nadoknadu_encrypted.enc    2/12/2026 10:44:30 PM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\Spisak za nadoknadu.pdf    2/12/2026 10:44:40 PM
+HASH NEODGOVARA za Spisak za nadoknadu.pdf    2/12/2026 10:44:54 PM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\William Stallings - Operating Systems (1)_encrypted.enc    2/12/2026 10:45:21 PM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\William Stallings - Operating Systems (1).pdf    2/12/2026 10:45:30 PM
+Kodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Presek poena_encrypted.enc    2/12/2026 10:46:24 PM
+Neuspešno slanje: No connection could be made because the target machine actively refused it.    2/12/2026 10:46:27 PM
+Kodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Presek poena_encrypted.enc    2/12/2026 10:46:57 PM
+Poslat fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Presek poena_encrypted.enc    2/12/2026 10:46:57 PM
+Osluškivanje zaustavljeno    2/12/2026 10:47:15 PM
+Kodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Lab. vezbe 2025 rezultati (1)_encrypted.enc    2/12/2026 11:09:42 PM
+Poslat fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Lab. vezbe 2025 rezultati (1)_encrypted.enc    2/12/2026 11:09:42 PM
+Osluškivanje zaustavljeno    2/12/2026 11:10:01 PM
+Osluškivanje zaustavljeno    2/12/2026 11:10:02 PM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\RM-I Kolokvijum - 2025-6_encrypted.enc    2/13/2026 12:25:26 AM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\RM-I Kolokvijum - 2025-6.pdf    2/13/2026 12:25:32 AM
+HASH NEODGOVARA za RM-I Kolokvijum - 2025-6.pdf    2/13/2026 12:25:42 AM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\RM-I Kolokvijum - 2025-6.pdf    2/13/2026 12:25:47 AM
+FSW startovan   2/13/2026 12:26:26 AM
+Otkriven novi fajl Lab. vezbe 2025 rezultati (1).pdf    2/13/2026 12:26:34 AM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\Lab. vezbe 2025 rezultati (1)_encrypted.enc    2/13/2026 12:26:37 AM
+FSW stopiran   2/13/2026 12:26:48 AM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Lab. vezbe 2025 rezultati (1).pdf    2/13/2026 12:27:09 AM
+Neuspešno slanje: Izabrani fajl ne postoji.    2/13/2026 12:30:59 AM
+Kodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\neovim-cheat-sheet-v0-vmyvqrxi2e4c1_encrypted.enc    2/13/2026 9:06:43 AM
+Poslat fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\neovim-cheat-sheet-v0-vmyvqrxi2e4c1_encrypted.enc    2/13/2026 9:06:46 AM
+Prihvaćena veza od 10.66.119.124:52765    2/13/2026 9:08:23 AM
+Dekodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Preuzeto\velikiFajl.txt    2/13/2026 9:08:24 AM
+Primljen i dešifrovan fajl od 10.66.119.124:52765    2/13/2026 9:08:24 AM
+FSW startovan   2/13/2026 9:29:28 AM
+Otkriven novi fajl Lab. vezbe 2025 rezultati (1).pdf    2/13/2026 9:29:41 AM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Elfak\Lab. vezbe 2025 rezultati (1)_encrypted.enc    2/13/2026 9:29:43 AM
+FSW stopiran   2/13/2026 9:29:51 AM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Lab. vezbe 2025 rezultati (1).pdf    2/13/2026 9:30:04 AM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\SWE Projekat 2025 Bodovi (V termin)_encrypted.enc    2/13/2026 9:34:26 AM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\SWE Projekat 2025 Bodovi (V termin).pdf    2/13/2026 9:34:36 AM
+Prihvaćena veza od 10.66.119.124:60781    2/13/2026 10:04:13 AM
+Dekodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Preuzeto\primer1.txt    2/13/2026 10:04:13 AM
+Primljen i dešifrovan fajl od 10.66.119.124:60781    2/13/2026 10:04:13 AM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Lab. vezbe 2025 rezultati_encrypted.enc    2/13/2026 10:06:11 AM
+Dekodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Lab. vezbe 2025 rezultati.pdf    2/13/2026 10:06:22 AM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\Presek poena_encrypted.enc    2/13/2026 10:26:21 AM
+Prihvaćena veza od 10.96.184.141:49749    2/13/2026 11:11:05 AM
+Dekodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Preuzeto\GameAtoll.rar    2/13/2026 11:11:05 AM
+Primljen i dešifrovan fajl od 10.96.184.141:49749    2/13/2026 11:11:05 AM
+Kodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Presek poena_encrypted.enc    2/13/2026 11:13:14 AM
+Neuspešno slanje: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.    2/13/2026 11:13:35 AM
+Kodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Presek poena_encrypted.enc    2/13/2026 11:13:47 AM
+Poslat fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Temp\Presek poena_encrypted.enc    2/13/2026 11:13:47 AM
+Prihvaćena veza od 10.66.119.124:50586    2/13/2026 12:36:39 PM
+Dekodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Preuzeto\slika.jpg    2/13/2026 12:36:39 PM
+Primljen i dešifrovan fajl od 10.66.119.124:50586    2/13/2026 12:36:39 PM
+Prihvaćena veza od 10.66.119.124:50664    2/13/2026 12:41:00 PM
+Dekodiran fajl C:\Users\jakov\source\repos\ZastitaOdbranaV2\ZastitaOdbranaV2\bin\Debug\net10.0-windows\Preuzeto\slika.jpg    2/13/2026 12:41:00 PM
+Primljen i dešifrovan fajl od 10.66.119.124:50664    2/13/2026 12:41:00 PM
+FSW startovan   2/13/2026 12:41:47 PM
+Otkriven novi fajl Presek poena.pdf    2/13/2026 12:41:54 PM
+Kodiran fajl C:\Users\jakov\Dropbox\PC\Desktop\FSW test\Presek poena_encrypted.enc    2/13/2026 12:41:57 PM
